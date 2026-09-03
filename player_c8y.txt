@@ -1,0 +1,174 @@
+# LISTA DE CANAIS MAPEADOS - OPCAO 3 (player-c8y.pages.dev)
+# Gerado via Chrome DevTools
+# Padrao do Player Web: https://player-c8y.pages.dev/player?canal=<SLUG>
+# Padrao do Stream HLS: https://stream.cazetv.shop/test/<SLUG>.m3u8
+
+=== ESPN ===
+Canal: ESPN 1
+Player: https://player-c8y.pages.dev/player?canal=espn
+Stream: https://stream.cazetv.shop/test/espn.m3u8
+
+Canal: ESPN 2
+Player: https://player-c8y.pages.dev/player?canal=espn2
+Stream: https://stream.cazetv.shop/test/espn2.m3u8
+
+Canal: ESPN 3
+Player: https://player-c8y.pages.dev/player?canal=espn3
+Stream: https://stream.cazetv.shop/test/espn3.m3u8
+
+Canal: ESPN 4
+Player: https://player-c8y.pages.dev/player?canal=espn4
+Stream: https://stream.cazetv.shop/test/espn4.m3u8
+
+Canal: ESPN 5
+Player: https://player-c8y.pages.dev/player?canal=espn5
+Stream: https://stream.cazetv.shop/test/espn5.m3u8
+
+Canal: ESPN 6
+Player: https://player-c8y.pages.dev/player?canal=espn6
+Stream: https://stream.cazetv.shop/test/espn6.m3u8
+
+=== SPORTV ===
+Canal: SporTV 1
+Player: https://player-c8y.pages.dev/player?canal=sportv
+Stream: https://stream.cazetv.shop/test/sportv.m3u8
+
+Canal: SporTV 2
+Player: https://player-c8y.pages.dev/player?canal=sportv2
+Stream: https://stream.cazetv.shop/test/sportv2.m3u8
+
+Canal: SporTV 3
+Player: https://player-c8y.pages.dev/player?canal=sportv3
+Stream: https://stream.cazetv.shop/test/sportv3.m3u8
+
+Canal: SporTV 4
+Player: https://player-c8y.pages.dev/player?canal=sportv4
+Stream: https://stream.cazetv.shop/test/sportv4.m3u8
+
+=== PREMIERE ===
+Canal: Premiere Clubes
+Player: https://player-c8y.pages.dev/player?canal=premiere
+Stream: https://stream.cazetv.shop/test/premiere.m3u8
+
+Canal: Premiere 2
+Player: https://player-c8y.pages.dev/player?canal=premiere2
+Stream: https://stream.cazetv.shop/test/premiere2.m3u8
+
+Canal: Premiere 3
+Player: https://player-c8y.pages.dev/player?canal=premiere3
+Stream: https://stream.cazetv.shop/test/premiere3.m3u8
+
+Canal: Premiere 4
+Player: https://player-c8y.pages.dev/player?canal=premiere4
+Stream: https://stream.cazetv.shop/test/premiere4.m3u8
+
+Canal: Premiere 5
+Player: https://player-c8y.pages.dev/player?canal=premiere5
+Stream: https://stream.cazetv.shop/test/premiere5.m3u8
+
+Canal: Premiere 6
+Player: https://player-c8y.pages.dev/player?canal=premiere6
+Stream: https://stream.cazetv.shop/test/premiere6.m3u8
+
+Canal: Premiere 7
+Player: https://player-c8y.pages.dev/player?canal=premiere7
+Stream: https://stream.cazetv.shop/test/premiere7.m3u8
+
+Canal: Premiere 8
+Player: https://player-c8y.pages.dev/player?canal=premiere8
+Stream: https://stream.cazetv.shop/test/premiere8.m3u8
+
+=== PORTUGAL (DAZN / ELEVEN & SPORT TV) ===
+Canal: DAZN / Eleven Sports 1 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_eleven1
+Stream: https://stream.cazetv.shop/test/pt_eleven1.m3u8
+
+Canal: DAZN / Eleven Sports 2 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_eleven2
+Stream: https://stream.cazetv.shop/test/pt_eleven2.m3u8
+
+Canal: DAZN / Eleven Sports 3 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_eleven3
+Stream: https://stream.cazetv.shop/test/pt_eleven3.m3u8
+
+Canal: Sport TV 1 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_sportv1
+Stream: https://stream.cazetv.shop/test/pt_sportv1.m3u8
+
+Canal: Sport TV 2 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_sportv2
+Stream: https://stream.cazetv.shop/test/pt_sportv2.m3u8
+
+Canal: Sport TV 3 Portugal
+Player: https://player-c8y.pages.dev/player?canal=pt_sportv3
+Stream: https://stream.cazetv.shop/test/pt_sportv3.m3u8
+
+Canal: Benfica TV
+Player: https://player-c8y.pages.dev/player?canal=pt_benficatv
+Stream: https://stream.cazetv.shop/test/pt_benficatv.m3u8
+
+=== EVENTOS, LUTAS & STREAMING ===
+Canal: CazéTV 1
+Player: https://player-c8y.pages.dev/player?canal=caze1
+Stream: https://stream.cazetv.shop/test/caze1.m3u8
+
+Canal: CazéTV 2
+Player: https://player-c8y.pages.dev/player?canal=caze2
+Stream: https://stream.cazetv.shop/test/caze2.m3u8
+
+Canal: Prime Video 1
+Player: https://player-c8y.pages.dev/player?canal=primevideo
+Stream: https://stream.cazetv.shop/test/primevideo.m3u8
+
+Canal: Prime Video 2
+Player: https://player-c8y.pages.dev/player?canal=primevideo2
+Stream: https://stream.cazetv.shop/test/primevideo2.m3u8
+
+Canal: Paramount+
+Player: https://player-c8y.pages.dev/player?canal=paramountplus
+Stream: https://stream.cazetv.shop/test/paramountplus.m3u8
+
+Canal: Combate
+Player: https://player-c8y.pages.dev/player?canal=combate
+Stream: https://stream.cazetv.shop/test/combate.m3u8
+
+Canal: UFC Fight Pass
+Player: https://player-c8y.pages.dev/player?canal=ufcfightpass
+Stream: https://stream.cazetv.shop/test/ufcfightpass.m3u8
+
+=== TV ABERTA, FILMES & SERIES ===
+Canal: Globo RJ
+Player: https://player-c8y.pages.dev/player?canal=globorj
+Stream: https://stream.cazetv.shop/test/globorj.m3u8
+
+Canal: Globo SP
+Player: https://player-c8y.pages.dev/player?canal=globosp
+Stream: https://stream.cazetv.shop/test/globosp.m3u8
+
+Canal: SBT
+Player: https://player-c8y.pages.dev/player?canal=sbt
+Stream: https://stream.cazetv.shop/test/sbt.m3u8
+
+Canal: Record
+Player: https://player-c8y.pages.dev/player?canal=record
+Stream: https://stream.cazetv.shop/test/record.m3u8
+
+Canal: Band
+Player: https://player-c8y.pages.dev/player?canal=band
+Stream: https://stream.cazetv.shop/test/band.m3u8
+
+Canal: BandSports
+Player: https://player-c8y.pages.dev/player?canal=bandsports
+Stream: https://stream.cazetv.shop/test/bandsports.m3u8
+
+Canal: TNT
+Player: https://player-c8y.pages.dev/player?canal=tnt
+Stream: https://stream.cazetv.shop/test/tnt.m3u8
+
+Canal: Space
+Player: https://player-c8y.pages.dev/player?canal=space
+Stream: https://stream.cazetv.shop/test/space.m3u8
+
+Canal: Megapix
+Player: https://player-c8y.pages.dev/player?canal=megapix
+Stream: https://stream.cazetv.shop/test/megapix.m3u8
